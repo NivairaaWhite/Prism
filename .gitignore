@@ -1,0 +1,4 @@
+build/
+build_san/
+*.png
+!tests/data/*.png
